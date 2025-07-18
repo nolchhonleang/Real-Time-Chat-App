@@ -46,3 +46,5 @@ Testing
 Run tests with: npm test
 Frontend Integration
 Serve the client/index.html file using a simple HTTP server (e.g., npx http-server client). Connect to ws://localhost:3000 using Socket.IO client, emit sendMessage events, and listen for message events.
+
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/6c19826e-8732-45e6-a708-2680056468f6" />
